@@ -1,4 +1,4 @@
-<h1 align="center"> Spotify ML </h1>
+<h1 align="center"> 🎵 Spotify ML 🎵</h1>
 <p align="center">
   <img src="https://github.com/SamG1002/SpotifyML/assets/56116583/169d68a2-f7b6-474f-ad4b-123ab9859824" alt="Capa Cachorro ouvindo Musica Spotify + Machine Learning">
 </p>
